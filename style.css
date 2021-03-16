@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+}
+
+.village {
+    width: 1350px;
+    height: 75px;
+}
+
+.spikes {
+    width: 190px;
+    height: 160px;
+    position: absolute;
+    left: -60px;
+    transition: left 0.25s top 2s;
+    top: 175px;
+    z-index: 2;
+}
+
+.spikes2 {
+    width: 100px;
+    height: 160px;
+    position: absolute;
+    left: 1250px;
+    transition: left 0.25s top 2s;
+    top: 175px;
+    z-index: 2;
+}
